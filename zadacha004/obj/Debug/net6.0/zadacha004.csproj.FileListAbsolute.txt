@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\bin\Debug\net6.0\zadacha004.exe
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\bin\Debug\net6.0\zadacha004.deps.json
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\bin\Debug\net6.0\zadacha004.runtimeconfig.json
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\bin\Debug\net6.0\zadacha004.dll
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\bin\Debug\net6.0\zadacha004.pdb
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\obj\Debug\net6.0\zadacha004.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\obj\Debug\net6.0\zadacha004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\obj\Debug\net6.0\zadacha004.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\obj\Debug\net6.0\zadacha004.AssemblyInfo.cs
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\obj\Debug\net6.0\zadacha004.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\obj\Debug\net6.0\zadacha004.dll
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\obj\Debug\net6.0\refint\zadacha004.dll
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\obj\Debug\net6.0\zadacha004.pdb
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\obj\Debug\net6.0\zadacha004.genruntimeconfig.cache
+C:\Users\user\Desktop\dz vik\с# dz\zadacha004\obj\Debug\net6.0\ref\zadacha004.dll
